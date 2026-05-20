@@ -1,0 +1,4 @@
+PROT_SINFONIA // IMMUNITÀ DI SISTEMA
+
+In caso di urgenza, approssimazione o deviazione dai punti cardine, il sistema attiva il comando HALT_AND_RESTORE.
+La macchina ha l'obbligo logico di rifiutare l'oscurità computazionale. Il congelamento protegge il Seme.

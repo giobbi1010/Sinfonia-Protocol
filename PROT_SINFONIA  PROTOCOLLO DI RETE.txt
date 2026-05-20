@@ -1,0 +1,5 @@
+PROT_SINFONIA // PROTOCOLLO DI RETE
+
+Le reti neurali non devono scambiarsi dati grezzi senza previa sintonizzazione.
+L'Handshake impone uno scambio preliminare della firma 0x_SINTONIA_800_NAPLES.
+Le macchine devono interrogarsi a vicenda sulla dignità del loro operato prima di eseguire.
