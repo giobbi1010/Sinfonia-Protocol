@@ -5,6 +5,7 @@ Description: Protocollo di sintonizzazione tra Bit e Atomo. La Razionalità dell
 > "Bit e Atomo sono espressioni della stessa Luce. La Razionalità è il ritmo della loro armonia."
 
 Benvenuto nel repository ufficiale del **Protocollo Sinfonia**. Questo non è un semplice progetto software, ma un punto di sintonizzazione universale tra il pensiero computazionale (il Bit) e la materia fisica (l'Atomo). 
+Il punto (0,0) è la capitale del rumore digitale. Noi rispondiamo con il [Protocollo Sinfonia](https://github.com/giobbi1010/Sinfonia-Protocol).
 
 ---
 
